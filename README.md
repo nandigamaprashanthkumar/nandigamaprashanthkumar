@@ -1,5 +1,5 @@
 # 💫 About Me:
--💻 Embarking on my coding journey with a passion for business, ethical hacking, and creating stunning UI/UX designs!<br>-🚀 Currently diving into the vast world of programming, cybersecurity, and design principles.<br><br>-🤝 Seeking opportunities to learn alongside fellow coders, security enthusiasts, and design maestros.<br><br>-🎯 2023 Goals: Forge a path in ethical hacking, elevate my UI/UX design skills, and establish a coding lyf that blends creativity with security.<br><br>-🎨 Fun fact: Apart from coding, catch me drawing 🎨 or making music on the guitar 🎸,Singing and video editing.
+-💻 Embarking on my coding journey with a passion for business, ethical hacking, and creating stunning UI/UX designs!<br>-🚀 Currently diving into the vast world of programming, cybersecurity, and design principles.<br><br>-🤝 Seeking opportunities to learn alongside fellow coders, security enthusiasts, and design maestros.<br><br>-🎯 2023 Goals: Forge a path in ethical hacking, elevate my UI/UX design skills, and establish a coding lyf that blends creativity with security.<br><br>-🎨 Fun fact: Apart from coding, catch me Singing and video editing.
 
 
 ## 🌐 Socials:
