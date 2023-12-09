@@ -19,9 +19,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nandigamaprashanthkumar&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=nandigamaprashanthkumar&icon=5&color=2)](https://visitcount.itsvg.in)
 
